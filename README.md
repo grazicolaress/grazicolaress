@@ -1,18 +1,79 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá!+Sou+a+Grazielle!;Explorando+o+mundo+da+programação)](https://git.io/typing-svg)
+# 👩‍💻 Grazielle Colares 
+
+**`Desenvolvedora web`**
+
+Me chamo Grazielle Cristina Colares Vieira, tenho 20 anos, sou estudante de Sistemas para Internet no IFRO e estou começando minha jornada como desenvolvedora. Ainda estou aprendendo os truques do código, mas trago muita curiosidade e entusiasmo para cada projeto! 🚀
 
 <p align="center">
   <a href="mailto:graziellecolaress@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/seuprojeto"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
-## Sobre Mim
-Oi, eu sou a Grazielle Colares, uma iniciante empolgada no mundo da programação. Estou dando meus primeiros passos como desenvolvedora e, confesso, ainda estou descobrindo os truques do código – mas com muito entusiasmo! Adoro brincar com **Python** e o framework **Django** para criar coisas legais, e também me aventuro por **HTML**, **CSS** e **JavaScript** para dar vida a páginas web cheias de estilo (mesmo que nem sempre saia perfeito na primeira tentativa). Meu objetivo? Aprender bastante, explorar novas ferramentas e, quem sabe, transformar ideias malucas em projetos incríveis. Vamos ver no que dá essa jornada!
+---
+### 🤖 Linguagens e Tecnologias
 
-
-<p align="center">
-  <a><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
-  <a><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"></a>
-  <a><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
-  <a><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>
-  <a><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
-</p>
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/><img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Bootstrap"
+    title="Bootstrap" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Laravel" 
+    title="Laravel"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="DOCKER" 
+    title="DOCKER"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
+/>
+<br/>
+<br/>
