@@ -49,7 +49,7 @@ Me chamo Grazielle Cristina Colares Vieira, tenho 20 anos, sou estudante de Sist
     title="Django" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg"
 />
 <img 
     align="left" 
