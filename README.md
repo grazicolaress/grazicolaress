@@ -6,7 +6,7 @@
 </p>
 
 ## Sobre Mim
-Olá! Eu sou a Grazielle Colares, uma iniciante empolgada no mundo da programação. Estou dando meus primeiros passos como desenvolvedora e, confesso, ainda estou descobrindo os truques do código – mas com muito entusiasmo! Adoro brincar com **Python** e o framework **Django** para criar coisas legais, e também me aventuro por **HTML**, **CSS** e **JavaScript** para dar vida a páginas web cheias de estilo (mesmo que nem sempre saia perfeito na primeira tentativa). Meu objetivo? Aprender bastante, explorar novas ferramentas e, quem sabe, transformar ideias malucas em projetos incríveis. Vamos ver no que dá essa jornada!
+Oi, eu sou a Grazielle Colares, uma iniciante empolgada no mundo da programação. Estou dando meus primeiros passos como desenvolvedora e, confesso, ainda estou descobrindo os truques do código – mas com muito entusiasmo! Adoro brincar com **Python** e o framework **Django** para criar coisas legais, e também me aventuro por **HTML**, **CSS** e **JavaScript** para dar vida a páginas web cheias de estilo (mesmo que nem sempre saia perfeito na primeira tentativa). Meu objetivo? Aprender bastante, explorar novas ferramentas e, quem sabe, transformar ideias malucas em projetos incríveis. Vamos ver no que dá essa jornada!
 
 
 <p align="center">
