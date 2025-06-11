@@ -1,4 +1,4 @@
-# 👩🏽‍💻 Grazielle Colares 
+# 👩🏽‍💻 Grazielle Colares e
 
 **`Desenvolvedora web`**
 
