@@ -2,7 +2,7 @@
 
 **`Desenvolvedora web`**
 
-Me chamo Grazielle Cristina Colares Vieira, tenho 20 anos, sou estudante de Sistemas para Internet no IFRO e estou começando minha jornada como desenvolvedora. Ainda estou aprendendo os truques do código, mas trago muita curiosidade e entusiasmo para cada projeto! 🚀
+Olá! Sou Grazielle Cristina Colares Vieira, tenho 20 anos e curso Sistemas para Internet no IFRO. Estou dando meus primeiros passos como desenvolvedora, aprendendo e explorando o mundo da programação com muita curiosidade e energia. Animada para crescer e contribuir em cada projeto! 🚀
 
 <p align="center">
   <a href="mailto:graziellecolaress@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
