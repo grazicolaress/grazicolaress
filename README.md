@@ -59,6 +59,7 @@ Olá! Sou Grazielle Cristina Colares Vieira, tenho 20 anos e curso Sistemas para
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<!--
 <img 
     align="left" 
     alt="PHP" 
@@ -82,6 +83,6 @@ Olá! Sou Grazielle Cristina Colares Vieira, tenho 20 anos e curso Sistemas para
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
-/>
+/> --!>
 <br/>
 <br/>
