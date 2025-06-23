@@ -1,5 +1,4 @@
 # 👩🏽‍💻 Grazielle Colares 
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 **`Desenvolvedora web`**
 
 Olá! Sou Grazielle Cristina Colares Vieira, tenho 20 anos e curso Sistemas para Internet no IFRO. Estou dando meus primeiros passos como desenvolvedora, aprendendo e explorando o mundo da programação com muita curiosidade e energia. Animada para crescer e contribuir em cada projeto! 🚀
